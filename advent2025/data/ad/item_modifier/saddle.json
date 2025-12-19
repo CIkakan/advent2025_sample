@@ -1,0 +1,13 @@
+{
+  "function": "minecraft:set_components",
+  "components": {
+    "minecraft:enchantments": {
+      "minecraft:binding_curse": 1,
+      "minecraft:vanishing_curse": 1
+    },
+    "minecraft:equippable": {
+      "slot": "saddle",
+      "equip_sound": "minecraft:intentionally_empty"
+    }
+  }
+}

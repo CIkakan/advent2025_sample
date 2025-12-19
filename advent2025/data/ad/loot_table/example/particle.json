@@ -1,0 +1,26 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "stone",
+          "functions": [
+            {
+              "function": "set_components",
+              "components": {
+                "equippable":{
+                    "slot": "saddle"
+                },
+                "enchantments": {
+                    "ad:particle": 1
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
